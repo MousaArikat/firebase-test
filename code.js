@@ -4,3 +4,4 @@ for (let i = 0; i < 5; i++){
 }
 
 let fire = 1.5
+let i = 1000
